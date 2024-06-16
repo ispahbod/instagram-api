@@ -23,12 +23,6 @@
   
 </p>
 
-## Donation
-
-| Coin | Network | Wallet |
-| ------------- | ------------- | ------------- |
-| USDT | TRC-20 |  TRsWGn75MPwMgKaEuETPqB4P67e6w9L9JT |
-
 # Packet Features
 
 | Feature                                | Instagram Mobil API                     | 
